@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Virtual MozFest 2021",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(225, 234, 239, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(142, 179, 201)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(0, 200, 215)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgba(34, 25, 77, 0)",
+      "toolbar_bottom_separator": "rgba(34, 25, 77, 0)",
+      "toolbar_field_border_focus": "rgba(34, 25, 77, 0)",
+      "toolbar_field_border": "rgba(34, 25, 77, 0)",
+      "toolbar_field_focus": "rgba(34, 25, 77, 0)",
+      "toolbar_field_separator": "rgba(34, 25, 77, 0)",
+      "toolbar_top_separator": "rgba(34, 25, 77, 0)",
+      "toolbar_vertical_separator": "rgba(34, 25, 77, 0)",
+      "tab_loading": "rgb(0, 200, 215)"
+    }
+  }
+}
